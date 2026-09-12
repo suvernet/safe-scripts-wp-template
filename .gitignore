@@ -1,0 +1,30 @@
+# WordPress core
+wp-admin/
+wp-includes/
+wp-content/uploads/
+wp-content/cache/
+
+# OS
+.DS_Store
+._*
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+debug.log
+
+# Composer / npm
+/vendor/
+/node_modules/
+composer.lock
+package-lock.json
+
+# Build
+dist/
+build/
