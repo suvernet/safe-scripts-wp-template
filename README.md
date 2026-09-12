@@ -23,10 +23,10 @@
 
 ## Примеры сниппетов
 
-- `php/disable-comments.php` — отключает комментарии на всём сайте.
-- `php/enqueue-custom-scripts.php` — правильный способ подключения своих скриптов и стилей.
-- `css/quick-fixes.css` — быстрые CSS‑правки для частых проблем.
-- `js/frontend-utils.js` — простые утилиты для фронтенда.
+- `php/suvernet_disable-comments.php` — отключает комментарии на всём сайте.
+- `php/suvernet_enqueue-custom-scripts.php` — правильный способ подключения своих скриптов и стилей.
+- `css/suvernet_quick-fixes.css` — быстрые CSS‑правки для частых проблем.
+- `js/suvernet_frontend-utils.js` — простые утилиты для фронтенда.
 
 ## Лицензия
 
